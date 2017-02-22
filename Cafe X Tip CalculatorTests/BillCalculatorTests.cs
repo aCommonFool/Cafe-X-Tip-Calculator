@@ -27,12 +27,12 @@ namespace Cafe_X_Tip_Calculator.Tests
             l_TestData.Add("Steak Sandwich");
 
             // Test each element
-            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 3.5);
+            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 8.0);
 
             l_TestData.Add("UNKnOWN");
 
             // Test Unknown element
-            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 3.5);
+            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 8.0);
         }
     }
 }
