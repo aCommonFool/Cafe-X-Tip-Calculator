@@ -1,5 +1,0 @@
-c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip Calculator\obj\Debug\Cafe X Tip Calculator.csprojResolveAssemblyReference.cache
-c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip Calculator\bin\Debug\Cafe X Tip Calculator.dll
-c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip Calculator\bin\Debug\Cafe X Tip Calculator.pdb
-c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip Calculator\obj\Debug\Cafe X Tip Calculator.dll
-c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip Calculator\obj\Debug\Cafe X Tip Calculator.pdb
