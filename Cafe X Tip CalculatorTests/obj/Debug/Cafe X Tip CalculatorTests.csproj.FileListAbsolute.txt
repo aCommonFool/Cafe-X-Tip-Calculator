@@ -1,0 +1,9 @@
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\bin\Debug\Cafe X Tip CalculatorTests.dll
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\bin\Debug\Cafe X Tip CalculatorTests.pdb
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\bin\Debug\Cafe X Tip Calculator.dll
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\bin\Debug\Cafe X Tip Calculator.pdb
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\obj\Debug\Cafe X Tip CalculatorTests.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\obj\Debug\Cafe X Tip CalculatorTests.dll
+c:\users\robert\documents\visual studio 2015\Projects\Cafe X Tip Calculator\Cafe X Tip CalculatorTests\obj\Debug\Cafe X Tip CalculatorTests.pdb
