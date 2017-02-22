@@ -21,18 +21,22 @@ namespace Cafe_X_Tip_Calculator.Tests
             // Ensure empty list works
             Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 0.0);
 
+            // Test no service charge applied.
             l_TestData.Add("Cola");
             l_TestData.Add("Coffee");
-            l_TestData.Add("Cheese Sandwich");
+            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 1.5);
+
+            // Test 10% servcice charge applied
+            l_TestData.Add("Cheese Sandwich");          
+            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 3.85);
+
+            // Test 20% servcice charge applied
             l_TestData.Add("Steak Sandwich");
-
-            // Test each element
-            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 8.0);
-
-            l_TestData.Add("UNKnOWN");
+            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 9.6);
 
             // Test Unknown element
-            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 8.0);
+            l_TestData.Add("UNKnOWN");
+            Assert.AreEqual(m_BillCalc.Calculate(l_TestData), 9.6);
         }
     }
 }
